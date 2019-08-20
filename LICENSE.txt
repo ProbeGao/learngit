@@ -1,0 +1,8 @@
+$ git push -u origin master
+      0 [sig] bash 185! sigpacket::process: Suppressing signal 18 to win32 process (pid 7528)
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+出现上述报错时
+关掉NPV
